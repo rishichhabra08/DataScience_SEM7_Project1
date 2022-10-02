@@ -9,4 +9,4 @@ We are predicting the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 
 We have used Random Forest Regressor and Extra Trees Regressor for solving this problem.
 
 ## Results
-The RMSE value of the model with Random Forest is 46.26 and with Extra Trees Regressor is 42.79 .
+The RMSE value of the model with Random Forest is 46.26 and with Extra Trees Regressor is 41.786 .
